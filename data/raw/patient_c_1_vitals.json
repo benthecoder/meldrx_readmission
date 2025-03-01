@@ -1,0 +1,59 @@
+{
+    "discharge_date": "2023-07-25",
+    "length_of_stay_days": 14,
+    "icu_duration_hours": 36,
+    "critical_events": [],
+    "vital_signs": [
+      {
+        "timestamp": "2023-07-10 07:00",
+        "temperature": "98.5F",
+        "pulse_rate": "78 bpm",
+        "blood_pressure": "115/70"
+      },
+      {
+        "timestamp": "2023-07-11 09:00",
+        "temperature": "98.7F",
+        "pulse_rate": "80 bpm",
+        "blood_pressure": "116/71"
+      },
+      {
+        "timestamp": "2023-07-12 11:00",
+        "temperature": "98.6F",
+        "pulse_rate": "79 bpm",
+        "blood_pressure": "118/72"
+      },
+      {
+        "timestamp": "2023-07-13 10:00",
+        "temperature": "98.8F",
+        "pulse_rate": "81 bpm",
+        "blood_pressure": "119/73"
+      },
+      {
+        "timestamp": "2023-07-14 08:00",
+        "temperature": "98.7F",
+        "pulse_rate": "79 bpm",
+        "blood_pressure": "117/74"
+      }
+    ],
+    "post_discharge_followup_time_days": 30,
+    "surgical_interventions": [
+      {
+        "procedure": "Subtotal gastrectomy",
+        "timestamp": "2023-07-10"
+      }
+    ],
+    "infection_records": [
+      {
+        "infection_type": "Surgical site infection",
+        "onset_date": "2023-08-04",
+        "duration_days": 7
+      }
+    ],
+    "readmission_records": [
+      {
+        "readmission_date": "2023-08-04",
+        "reason_for_readmission": "Postoperative infection at surgical site",
+        "duration_days": 7
+      }
+    ]
+}

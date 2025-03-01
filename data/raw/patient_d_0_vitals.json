@@ -1,0 +1,46 @@
+{
+    "discharge_date": "2023-09-05",
+    "length_of_stay_days": 5,
+    "icu_duration_hours": 12,
+    "critical_events": [],
+    "vital_signs": [
+      {
+        "timestamp": "2023-09-01 08:00",
+        "temperature": "98.4F",
+        "pulse_rate": "72 bpm",
+        "blood_pressure": "118/75"
+      },
+      {
+        "timestamp": "2023-09-02 10:00",
+        "temperature": "98.5F",
+        "pulse_rate": "73 bpm",
+        "blood_pressure": "120/76"
+      },
+      {
+        "timestamp": "2023-09-03 09:00",
+        "temperature": "98.6F",
+        "pulse_rate": "74 bpm",
+        "blood_pressure": "119/77"
+      },
+      {
+        "timestamp": "2023-09-04 11:00",
+        "temperature": "98.7F",
+        "pulse_rate": "75 bpm",
+        "blood_pressure": "121/78"
+      },
+      {
+        "timestamp": "2023-09-05 09:00",
+        "temperature": "98.4F",
+        "pulse_rate": "72 bpm",
+        "blood_pressure": "118/75"
+      }
+    ],
+    "post_discharge_followup_time_days": 30,
+    "surgical_interventions": [
+      {
+        "procedure": "Laparoscopic colectomy",
+        "timestamp": "2023-09-01"
+      }
+    ],
+    "infection_records": []
+}

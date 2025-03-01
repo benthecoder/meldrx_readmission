@@ -1,0 +1,70 @@
+{
+    "discharge_date": "2023-06-01",
+    "length_of_stay_days": 22,
+    "icu_duration_hours": 48,
+    "critical_events": [
+      {
+        "event": "postoperative bleeding",
+        "timestamp": "2023-05-12 11:00"
+      }
+    ],
+    "vital_signs": [
+      {
+        "timestamp": "2023-05-10 08:00",
+        "temperature": "98.6F",
+        "pulse_rate": "80 bpm",
+        "blood_pressure": "120/70"
+      },
+      {
+        "timestamp": "2023-05-11 14:00",
+        "temperature": "98.8F",
+        "pulse_rate": "82 bpm",
+        "blood_pressure": "122/72"
+      },
+      {
+        "timestamp": "2023-05-12 16:00",
+        "temperature": "99.0F",
+        "pulse_rate": "85 bpm",
+        "blood_pressure": "125/75"
+      },
+      {
+        "timestamp": "2023-05-13 10:00",
+        "temperature": "98.7F",
+        "pulse_rate": "84 bpm",
+        "blood_pressure": "120/70"
+      },
+      {
+        "timestamp": "2023-05-14 09:00",
+        "temperature": "98.9F",
+        "pulse_rate": "86 bpm",
+        "blood_pressure": "123/73"
+      },
+      {
+        "timestamp": "2023-05-15 11:00",
+        "temperature": "98.6F",
+        "pulse_rate": "83 bpm",
+        "blood_pressure": "121/71"
+      },
+      {
+        "timestamp": "2023-05-16 13:00",
+        "temperature": "99.1F",
+        "pulse_rate": "88 bpm",
+        "blood_pressure": "124/74"
+      }
+    ],
+    "post_discharge_followup_time_days": 30,
+    "surgical_interventions": [
+      {
+        "procedure": "Partial laryngectomy",
+        "timestamp": "2023-05-10"
+      }
+    ],
+    "infection_records": [
+      {
+        "infection_type": "Surgical site infection",
+        "onset_date": "2023-05-20",
+        "duration_days": 7
+      }
+    ]
+  }
+  

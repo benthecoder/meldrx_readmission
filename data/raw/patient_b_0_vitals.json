@@ -1,0 +1,46 @@
+{
+    "discharge_date": "2023-08-15",
+    "length_of_stay_days": 10,
+    "icu_duration_hours": 24,
+    "critical_events": [],
+    "vital_signs": [
+      {
+        "timestamp": "2023-08-10 09:00",
+        "temperature": "98.7F",
+        "pulse_rate": "75 bpm",
+        "blood_pressure": "118/76"
+      },
+      {
+        "timestamp": "2023-08-11 11:00",
+        "temperature": "98.9F",
+        "pulse_rate": "78 bpm",
+        "blood_pressure": "120/78"
+      },
+      {
+        "timestamp": "2023-08-12 10:00",
+        "temperature": "98.6F",
+        "pulse_rate": "76 bpm",
+        "blood_pressure": "119/77"
+      },
+      {
+        "timestamp": "2023-08-13 13:00",
+        "temperature": "98.7F",
+        "pulse_rate": "77 bpm",
+        "blood_pressure": "121/79"
+      },
+      {
+        "timestamp": "2023-08-14 10:00",
+        "temperature": "98.6F",
+        "pulse_rate": "75 bpm",
+        "blood_pressure": "118/75"
+      }
+    ],
+    "post_discharge_followup_time_days": 45,
+    "surgical_interventions": [
+      {
+        "procedure": "Lobectomy",
+        "timestamp": "2023-08-10"
+      }
+    ],
+    "infection_records": []
+}
